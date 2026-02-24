@@ -31,4 +31,4 @@ architectures. Strong focus on system correctness, reliability, and clean design
 - Treat failures as first-class citizens
 
 📍 Chennai, India  
-🔗 LinkedIn: <your-linkedin-url>
+🔗 LinkedIn: https://www.linkedin.com/in/jawahar-m-119476236/
