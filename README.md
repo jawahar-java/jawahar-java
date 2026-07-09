@@ -1,34 +1,114 @@
-# Jawahar M
+# Hi 👋 I'm Jawahar M
 
-Senior Software Engineer | Java | Spring Boot | Distributed Systems | AWS
+## Senior Backend Engineer | Java | Spring Boot | Microservices | AWS | AI
 
-Backend-leaning full stack engineer with 4.5+ years of experience building
-scalable, production-grade systems using Java, Spring Boot, and cloud-native
-architectures. Strong focus on system correctness, reliability, and clean design.
+I'm a Backend Engineer with **4.5+ years** of experience building scalable cloud-native applications using Java, Spring Boot, PostgreSQL, Microservices and AWS.
 
-## Tech Stack
-- **Languages:** Java, JavaScript
-- **Backend:** Spring Boot, REST APIs, Microservices, JPA/Hibernate
-- **Frontend:** React
-- **Cloud:** AWS (ECS, SQS, S3, Cognito)
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Concepts:** Distributed systems, async processing, retries, idempotency
+I enjoy building distributed systems, AI applications and backend platforms that solve real engineering problems.
 
-## Featured Projects
-- **Distributed Job Executor System**  
-  Controller–Worker architecture with retries, timeouts, and execution tracking
+---
 
-- **High Throughput Voting System**  
-  Designed for millions of concurrent votes with real-time aggregation
+# 🚀 Featured Projects
 
-- **RAG-based Knowledge Assistant**  
-  Retrieval-Augmented Generation system for domain-specific knowledge
+## Distributed Job Executor
 
-## Engineering Principles
-- Design state machines explicitly
-- Optimize for correctness before scale
-- Prefer simple, explainable architectures
-- Treat failures as first-class citizens
+A distributed Controller–Worker platform built using Java and Spring Boot.
 
-📍 Chennai, India  
-🔗 LinkedIn: https://www.linkedin.com/in/jawahar-m-119476236/
+### Features
+
+- Worker Registration
+- Heartbeat Monitoring
+- Offline Detection
+- Round Robin Load Balancer
+- Retry Mechanism
+- Dead Letter Queue
+- Dashboard API
+
+🔗 Repository
+
+https://github.com/jawahar-java/distributed-job-executor
+
+---
+
+## Enterprise AI Knowledge Assistant
+
+🚧 Coming Soon
+
+Features
+
+- RAG
+- Vector Search
+- LLM Integration
+- AI Chat
+- PDF Search
+- Memory
+
+---
+
+# 🛠 Tech Stack
+
+### Backend
+
+Java
+
+Spring Boot
+
+Microservices
+
+REST APIs
+
+Hibernate
+
+Spring Data JPA
+
+---
+
+### Cloud
+
+AWS
+
+Docker
+
+PostgreSQL
+
+MongoDB
+
+Redis
+
+Kafka
+
+---
+
+### AI
+
+LangChain
+
+OpenAI
+
+RAG
+
+Embeddings
+
+Vector Databases
+
+---
+
+# 📈 GitHub Stats
+
+(Enable GitHub Readme Stats later)
+
+---
+
+# 📫 Connect with me
+
+LinkedIn
+
+https://www.linkedin.com/in/jawahar-m-119476236
+
+GitHub
+
+https://github.com/jawahar-java
+
+Email
+
+jawahar.m.071700@gmail.com
